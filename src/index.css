@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.feature-bg{
+    background-image: url(./assets/home/featured.jpg);
+}
